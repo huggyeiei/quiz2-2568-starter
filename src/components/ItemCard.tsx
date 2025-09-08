@@ -1,4 +1,4 @@
-import { Card, Group, Badge, ActionIcon, Text } from "@mantine/core";
+/*import { Card, Group, Badge, ActionIcon, Text } from "@mantine/core";
 import { IconTrash } from "@tabler/icons-react";
 
 type FoodProps = {
@@ -15,6 +15,6 @@ export default function ItemCard() {
   console.log(val_number + 100); // 600.0
 
   return {
-    /* Type additional text here. */
+
   };
-}
+}*/
